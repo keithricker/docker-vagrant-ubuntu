@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM phusion/baseimage:0.9.15
 MAINTAINER Guilhem Lettron "guilhem@lettron.fr"
 
 ENV DEBIAN_FRONTEND noninteractive
